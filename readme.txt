@@ -33,15 +33,14 @@ Installing "Featured Image Sharpen Up" can be done either by searching for "Feat
 
 == Screenshots ==
 
-1. Description of first screenshot named screenshot-1
-2. Description of second screenshot named screenshot-2
-3. Description of third screenshot named screenshot-3
+1. The stretched and blurred placeholder image
+2. When the image is loaded
+3. Showing network requests as user scrolls down the page and images are lazy loaded.
 
 == Frequently Asked Questions ==
 
-= What is the plugin template for? =
+= None yet! =
 
-This plugin template is designed to help you get started with any new WordPress plugin.
 
 == Changelog ==
 
