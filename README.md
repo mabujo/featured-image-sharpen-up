@@ -10,7 +10,7 @@ Tested working on all Twenty Sixteen, Twenty Fifteen, Twenty Fourteen, Twenty Th
 
 Uses jQuery.Lazy(); (http://jquery.eisbehr.de/lazy/) and Hugh Lashbrooke's plugin template (https://github.com/hlashbrooke/WordPress-Plugin-Template)
 
-Plugin page : [Featured Image Sharpen Up plugin @ plusdevs](https://mabujo.com/)
+Plugin page : [Featured Image Sharpen Up plugin @ mabujo](https://mabujo.com/)
 
 ## Installation
 
