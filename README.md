@@ -1,4 +1,4 @@
-# Description
+# Featured Image Sharpen Up
 
 Featured Image Sharpen Up makes a tiny version of your featured post image and places it in the head of the page.
 As you scroll down the page, some JavaScript lazy loads the featured images in the background and replaces the tiny images as the full images are loaded.
