@@ -39,8 +39,11 @@ Installing "Featured Image Sharpen Up" can be done either by searching for "Feat
 
 == Frequently Asked Questions ==
 
-= None yet! =
+= Does this plugin work with my theme? =
+It should do! We've tested the plugin with all the default WordPress themes and some of the most popular third party themes from the Wordpress Theme Directory.
 
+= What if the plugin doesn't work with my theme? =
+The plugin uses standard WordPress hooks so it should work with nearly all well built themes. If you have problems with the plugin and your theme and contact us, please make sure to include your theme.
 
 == Changelog ==
 
