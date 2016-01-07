@@ -140,7 +140,7 @@ class Featured_Image_Sharpen_Up {
 	 * @return  void
 	 */
 	public function enqueue_scripts () {
-		wp_register_script( $this->_token . '-frontend', esc_url( $this->assets_url ) . 'js/frontend' . $this->script_suffix . '.min.js', array( 'jquery' ), $this->_version );
+		wp_register_script( $this->_token . '-frontend', esc_url( $this->assets_url ) . 'js/frontend' . $this->script_suffix . '.js', array( 'jquery' ), $this->_version );
 		wp_enqueue_script( $this->_token . '-frontend' );
 	} // End enqueue_scripts ()
 
