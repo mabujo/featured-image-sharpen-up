@@ -3,7 +3,7 @@ Contributors: mabujo
 Tags: plugin, images, page speed, lazy load, svg
 Requires at least: 3.9
 Tested up to: 4.4
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,7 +21,7 @@ Tested working on all Twenty Sixteen, Twenty Fifteen, Twenty Fourteen, Twenty Th
 
 Uses jQuery.Lazy(); (http://jquery.eisbehr.de/lazy/) and Hugh Lashbrooke's plugin template (https://github.com/hlashbrooke/WordPress-Plugin-Template)
 
-Plugin page : [Featured Image Sharpen Up plugin @ mabujo](https://mabujo.com/)
+Plugin page : [Featured Image Sharpen Up plugin @ mabujo](https://mabujo.com/blog/featured-image-sharpen-up-wordpress-plugin/)
 
 == Installation ==
 
@@ -47,12 +47,16 @@ The plugin uses standard WordPress hooks so it should work with nearly all well 
 
 == Changelog ==
 
+= 1.0.1 =
+* 2016-01-07
+* Fix frontend js address bug.
+
 = 1.0 =
-* 2012-12-17
+* 2015-12-17
 * Initial release
 
 == Upgrade Notice ==
 
 = 1.0 =
-* 2012-12-17
+* 2015-12-17
 * Initial release

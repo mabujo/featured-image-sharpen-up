@@ -2,7 +2,7 @@
 	"name": "featured-image-sharpen-up",
 	"title": "Featured Image Sharpen Up",
 	"description" : "This plugin helps increase the page loading speed of your site by replacing featured post images with a small inline image, and lazy loading the full image.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"homepage": "https://github.com/hlashbrooke/WordPress-Plugin-Template",
 	"main": "Gruntfile.js",
 	"devDependencies": {

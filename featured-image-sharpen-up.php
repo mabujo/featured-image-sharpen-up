@@ -1,13 +1,13 @@
 <?php
 /*
  * Plugin Name: Featured Image Sharpen Up
- * Version: 1.0
+ * Version: 1.0.1
  * Plugin URI: https://mabujo.com/
  * Description: This plugin helps increase the page loading speed of your site by replacing featured post images with a small inline image, and lazy loading the full image.
  * Author: mabujo
  * Author URI: https://mabujo.com
  * Requires at least: 4.0
- * Tested up to: 4.4
+ * Tested up to: 4.4.1
  *
  * Text Domain: featured-image-sharpen-up
  * Domain Path: /lang/
